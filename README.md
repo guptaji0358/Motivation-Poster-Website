@@ -114,7 +114,7 @@ Day 44 → Motivational Poster Website
 **Robin Gupta**
 
 📌 GitHub:  
-[https://github.com/guptaji0358](https://github.com/guptaji0358/Motivation-Poster-Website/blob/main/Demo.mp4)
+[https://github.com/guptaji0358](https://github.com/guptaji0358?tab=overview&from=2026-03-01&to=2026-03-26)
 
 ---
 
